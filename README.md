@@ -1,4 +1,4 @@
-# vue-next-demo
+# vue-next-template
 
 ## Project setup
 ```
